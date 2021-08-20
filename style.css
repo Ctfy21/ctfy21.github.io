@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+  
+    /* BEGIN (write your solution here) */
+    font-size: 23px;
+    line-height: 1.5;
+    color: #333;
+    font-family: Myriad Pro;
+    /* END */
+  }
+  
+  /* BEGIN (write your solution here) */
+  h1{
+      margin: 50px 0px 10px 0px;
+      font-size: 60px;
+      text-align: center;
+  }
+  
+  /* END */
+  section{
+      margin-top: 50px;
+      margin-bottom: 50px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+  
+  h2 {
+    /* BEGIN (write your solution here) */
+      font-size: 25px;
+      margin-top: 0px;
+      padding-bottom: 30px;
+      text-align: center;
+    /* END */
+  
+    border-bottom: 2px solid #e3e3e3;
+  }
+  
+  selection h2{
+    padding: 0px;
+    text-align: left;
+    border: 0px;
+  }
+  
+  selection ul li{
+    margin: 0px, 0px, 10px, 0px
+  }
+  
+  
+  main {
+    width: 900px;
+    margin: auto;
+  }
+  
+  /* BEGIN (write your solution here) */
+  
+  
+  /* END */
+  
